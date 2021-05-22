@@ -16,4 +16,4 @@ Open the process you want to inject the DLL, and then just move the DLL to the i
 
 # Important notes
 
-If you're using this injector to inject a x86 dll in a x86 process, compile with the platform x86 too.
+If you're using this injector to inject a x86 dll in a x86 process, compile with the x86 platform too.
