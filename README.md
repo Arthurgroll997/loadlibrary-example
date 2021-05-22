@@ -20,4 +20,4 @@ If you're using this injector to inject a x86 dll in a x86 process, compile with
 
 # Plans for the future
 
-I'll be releasing more content soon, including new and more sofisticated injection methods, such as manual mapping, and also hook examples, and much more
+I'll be releasing more content soon, including new and more sophisticated injection methods, such as manual mapping, and also hook examples, and much more
